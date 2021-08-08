@@ -1,7 +1,7 @@
-var Harvester = {
+var harvester = {
     run: function() {
-
+        
     }
 };
 
-module.exports = Harvester
+module.exports = harvester
