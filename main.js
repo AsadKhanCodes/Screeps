@@ -1,6 +1,6 @@
 var Spawn = require('spawn');
-var Harvester = require('harvester');
-var Clean = require('cleanUp')
+var Clean = require('cleanUp');
+var Controller = require('creepController');
 
 module.exports.loop = function() {
     Spawn.run()
