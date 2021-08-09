@@ -11,4 +11,4 @@ var cleanUp = {
     }
 };
 
-module.exports = cleanUp
+module.exports = cleanUp;
