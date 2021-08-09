@@ -16,4 +16,4 @@ var spawn = {
     }
 };
 
-module.exports = spawn
+module.exports = spawn;

@@ -1,7 +1,7 @@
 var harvester = {
-    run: function() {
-        
+    run: function(creep) {
+        // TODO: Implement Harvester Functionality
     }
-};
+}
 
-module.exports = harvester
+module.exports = harvester;
